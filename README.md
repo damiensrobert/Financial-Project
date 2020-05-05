@@ -1,5 +1,10 @@
 # Financial-Project
 
+## Paradoxe
+Est-ce que JE fais partie tout en ne faisant pas partie de l'economie ?
+
+-----------------------------------------------------------------------------------------------------
+
 ## Définition
 
 La finance est la mesure de la d'un bien matériel en monnaie.
