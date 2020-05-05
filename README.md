@@ -2,7 +2,7 @@
 
 ## Définition
 
-La finance est la mesure de la Réalité en monnaie.
+La finance est la mesure de la d'un bien matériel en monnaie.
 
 ## Modèle
 * Realité
